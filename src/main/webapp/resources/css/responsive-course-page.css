@@ -1,0 +1,9 @@
+@media only screen and (max-width: 500px) {
+  .course-img {
+    width:200px;
+  }
+  
+  .jumbotron {
+  	height:100%;
+  }
+}

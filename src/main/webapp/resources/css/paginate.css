@@ -1,0 +1,33 @@
+.pagination li
+{
+	color: black;
+    padding: 8px 16px;
+    list-style:none;  
+    float:left;
+    cursor:pointer;
+}
+
+.pagination li:hover
+{
+    background-color: #ddd;
+}
+
+.pagination ul
+{
+	display:inline;
+    border: 0px;
+    padding: 0px;
+}
+
+.active-class
+{
+	background-color: #ddd !important;
+}
+
+.pagination span
+{
+	float:left;
+	padding: 0px 16px;
+	font-size:25px;
+	cursor:pointer;
+}

@@ -1,0 +1,4 @@
+29/02/2017 - 
+
+1. Fields for teacher sign up form e.g. education, qualifications.
+2. How close does the UI mockups have to be to the actual implementation.

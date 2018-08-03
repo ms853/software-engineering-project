@@ -1,0 +1,16 @@
+/.gradle/
+/bin/
+*.DS_Store
+/build/
+/src/main/java/ecourse/DbConfig.java
+*.dia~
+/src/main/webapp/file_storage/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+/.settings/
+.springBeans

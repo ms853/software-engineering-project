@@ -1,0 +1,73 @@
+.select{
+background: none !important;
+	border-color:#3c763d !important;
+}
+
+#course-section{
+	padding-top:80px;
+}
+
+#middle-section{
+	background-color: white !important;
+}
+
+.course-details{
+	width:100%;
+	background-color: white !important;
+}
+
+.border-colour{
+	 border: 5px solid #555753;
+	 padding-bottom:400px;
+}
+
+.course-background{
+	background-color: #555753!important;
+}
+
+.course-title{
+    font-size: 3em;
+    font-family: "BebasNeueRegular";
+}
+
+.course-content{
+	background-color: darkgray!important;
+	margin-left:10px;
+	margin-bottom:10px;
+	/* Padding :  Top Right Bottom Left*/
+	padding:50px 20px 200px 50px;
+}
+
+.course-img{
+  	width: 300px;
+}
+
+.details-section{
+	background-color: darkgray !important;
+}
+
+.table th {
+    text-align: center;
+}
+
+.table  {
+	border-radius: 5px;
+	width: 80%;
+	margin: auto;
+	float: none;
+}
+
+.table-content{
+	height:600px !important;
+	overflow:auto;
+}
+
+.white{
+	color:white;
+	font-style:bold;
+}
+
+.card-text{
+	font-size:20px !important;
+}
+

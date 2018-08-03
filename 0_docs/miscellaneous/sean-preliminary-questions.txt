@@ -1,0 +1,52 @@
+What techniques could be employed to make the system more accessible for the visually impaired students? Should these techniques also be employed for other user roles too (such as lecturers and administrators)?
+
+ 
+
+<”Learners have the option to sign up to live news feeds for tech articles.” needs elaboration in some way> RSS support?
+
+ 
+
+What information should be available to learners about other learners in their course such that they can communicate and organise meetups and other events related to the course/their academic studies?
+
+ 
+
+What file types should be supported for media within course content? What restrictions (such as maximum file size .etc) should be considered for media within course content?
+
+ 
+
+Should a comment moderation system be put in place? If so, what techniques for moderating comments do you suggest? Should lecturers (and administrators) be able to moderate comments on their own courses? Should all comments left by learners require manual approval by lecturers/administrators by default?
+
+ 
+
+What system should be used for rating course content on the website (e.g. likes/dislikes count, 5 stars system, net likes count .etc)?
+
+ 
+
+Should courses contain a comments section that learners can use to post comments or review a specific course? If yes, should learners be able to comment anonymously (if they wanted to state a controversial opinion, for example)?
+
+ 
+
+Should lecturers be responsible for enrolling students onto courses via some sort of UI within the website? Alternatively, should students enroll themselves onto courses by inputting a course enrollment password provided by a lecturer in-person or by other means, for example?
+
+ 
+
+Should administrators can change account passwords from within the website (via a UI)?
+
+ 
+
+Should administrators have the ability to change other account details (such as a names, DoB .etc) from within the website (via a UI)?
+
+ 
+
+Should administrators initially be responsible for registering user accounts for lecturers and students onto the website? Should users be able to register on the website while requiring administrator approval for their accounts to be activated?
+
+ 
+
+What content should be available to users not logged in to the system?
+
+ 
+
+Can accounts that are a lecturer role also be an administrator role?
+
+ 
+

@@ -1,0 +1,56 @@
+#navbar{
+	width: 100%;
+	height: 100px;
+}
+
+#teacher-panel{
+	background-color:grey;
+	height: 600px;
+}
+
+
+#learner-panel{
+	background-color:green;
+	height: 600px;	
+}
+
+.full{
+	width: 100%;
+}
+
+#main-wrapper{
+	padding:20px;
+}
+
+#learner-dev{
+	height: 50px;
+	margin: 20px;
+}
+
+.admin-button{
+	width:20%;
+}
+
+.page-number-active{
+	color: black;
+    padding: 8px 16px;
+    background-color: #ddd;
+}
+
+.page-number{
+	color: #ddd;
+    padding: 8px 16px;
+    text-decoration:none;
+}
+
+.page-number:hover{
+	color: black;
+    padding: 8px 16px;
+    background-color: #ddd;
+    text-decoration:none;
+}
+
+.page-result{
+	color: #ddd;
+    padding: 8px 16px;
+}

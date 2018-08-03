@@ -1,0 +1,57 @@
+
+General Questions:
+- Do you have a similar system that you already use?
+- Do learners get certified if they complete the courses?
+
+______________________________________________________________________________________________________________
+
+Technical:
+- Where will the website be hosted?
+- Is the system only available to authorised users?
+- What content is available to unauthorised users?
+- Do you require a live lecture feature?
+- Online chat - does it need to be monitored? Can media be sent? 
+- Will you need an events calendar features?
+
+______________________________________________________________________________________________________________
+
+
+Roles:
+- Admin Role: -is admin responsible for controlling the whole system not just the website?
+	      -can admin remove lectures' contents if they are not meeting their standards? 
+	      -does a single admin monitor certain amounts of course content or lecturers?
+	      -Should administrators can change account passwords from within the website (via a UI)?
+	      -Should administrators have the ability to change other account details (such as a names, DoB .etc) from within the website (via a UI)?
+	      -Should administrators initially be responsible for registering user accounts for lecturers and students onto the website? Should users be able to register on the website while requiring 	        administrator approval for their accounts to be activated?
+
+- Lecturer Role: -Meetups, send a map, invite through email, messages? Notifications? setup calendar event?
+		 -Should lecturers be responsible for enrolling students onto courses via some sort of UI within the website? Alternatively, should students enroll themselves onto courses by inputting a 	 	          course enrollment password provided by a lecturer in-person or by other means, for example?
+		 -Can accounts that are a lecturer role also be an administrator role?
+
+- Learner Role: -"Learners have the option to sign up to live news feeds for tech articles.” needs elaboration in some way, RSS support?
+		-What information should be available to learners about other learners in their course such that they can communicate and organise meetups and other events related to the course/their 		 academic studies?
+______________________________________________________________________________________________________________
+
+
+Usability:
+-What techniques could be employed to make the system more accessible for the visually impaired students? Should these techniques also be employed for other user roles too (such as 			 lecturers and administrators)?
+-What content should be available to users not logged in to the system?
+
+______________________________________________________________________________________________________________
+
+Functionality:
+- Rating - How would you want this on the website? Would you want questionairre for reviewing or a feedback form? Would you want the rating to be done through stars or numbering format, or any other possible ways?
+- What system should be used for rating course content on the website (e.g. likes/dislikes count, 5 stars system, net likes count .etc)?
+Should a comment moderation system be put in place? If so, what techniques for moderating comments do you suggest? Should lecturers (and administrators) be able to moderate comments on their own courses? - - Should all comments left by learners require manual approval by lecturers/administrators by default?
+- Should courses contain a comments section that learners can use to post comments or review a specific course? If yes, should learners be able to comment anonymously (if they wanted to state a controversial opinion, for example)?
+- Learners have the option to sign up to live news feeds for tech articles, where will the articles be provided from and who will monitor and control this?
+- What file types should be supported for media within course content? What restrictions (such as maximum file size .etc) should be considered for media within course content?
+ 
+______________________________________________________________________________________________________________
+Addional (Need too be checked by group):
+- Should learners be able to download course material?
+- Will courses be rated by difficulty?
+- Are learners limited to a certain number of courses they can be enrolled in?
+- Password charcter size? E.g 6 charcters or more?
+
+

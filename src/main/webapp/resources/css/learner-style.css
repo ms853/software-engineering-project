@@ -1,0 +1,454 @@
+
+/* @import url('bootstrap/bootstrap.min.css');
+@import url('bootstrap/bootstrap-responsive.min.css'); */
+
+/* New styles */
+
+ol{
+	margin-bottom: 0;
+}
+
+div{
+	overflow: hidden;
+	
+}
+
+
+.btn-default{
+	background: none !important;
+}
+
+.logo{
+	 height: 100px;
+	 z-index: 5; position:relative;
+}
+
+label.valid {
+	width: 24px;
+	height: 24px;
+	display: inline-block;
+	text-indent: -9999px;
+}
+label.error {
+	font-weight: bold;
+	color: white;
+	padding: 2px 8px;
+	margin-top: 2px;
+}
+
+.form-title {
+    background: darkgray;
+    position: absolute;
+    width:100%;
+    height: 60%;
+    z-index: -1
+}
+
+input{
+	background: none !important;
+	box-shadow: none !important;
+	border: none !important;
+	border-bottom: solid 0.5px darkgray !important;
+}
+
+.has-success .form-control{
+	background: none !important;
+	border-color:#3c763d !important;
+}
+
+.has-error .form-control{
+	background: none !important;
+	border-color:#a94442 !important;
+}
+
+.jumbotron {
+    padding-bottom: 20% !important;
+}
+
+.loadinggif {
+    background:url('http://www.hsi.com.hk/HSI-Net/pages/images/en/share/ajax-loader.gif') no-repeat right center;
+}
+
+p{
+    font-size: 8pt;
+    
+}
+.text-center { margin-top: 15pt; margin-bottom: 0;
+   
+
+}
+section{
+    height: auto;
+}
+div {
+    
+    height: auto;
+}
+
+.navbar-default {
+    background-color: #325C74;
+    border-color: transparent !important;
+}
+
+.btn-primary{
+   margin-right: 10%;
+    min-width: 15%;
+    background-color: #325C74;
+    border-color: #325C74;
+    
+}
+.btn-secondary{
+    min-width: 15%;
+    color: #325C74;
+    
+}
+
+
+.navbar{
+    margin-bottom: 0px;
+    background: #222 !important;
+}
+
+.nav.navbar-nav li a {
+    color:#ffffff;
+    font-weight: 900;
+}
+
+.dropdown-menu li a{
+    color:#777 !important;
+}
+
+.big-title{
+    font-size: 5em;
+    text-align: center;
+    text-decoration: underline;
+    font-family: "BebasNeueRegular";
+    color: white;
+    
+   
+}
+
+.title{
+    font-size: 3.5em;
+    text-align: center;
+    text-decoration: underline;
+    font-family: "proxima-bold";
+    color: #325C74;
+}
+
+.title-white{
+    color: white;
+}
+
+.title-section{
+    background-color: black;
+    height: 13%;
+}
+
+.fixed{
+	width:200px;
+}
+.flex-item{
+	flex-grow:1;
+}
+
+
+#cover {
+	background:#3CF;
+	text-align:center;
+	}
+	
+
+
+
+#courses-mini{
+    background-color:#ffffff;
+    padding-bottom: 8pt;
+    height:auto;
+}
+
+#best-ratings{
+    background-color: #325C74;
+    text-align: center; 
+}
+
+.carousel{
+    background: #2f4357;
+    padding-top: 40px;
+    padding-bottom: 20px;
+    min-height: 100%;
+}
+.carousel .item img{
+    margin: 0 auto; /* Align slide image horizontally center */
+}
+.bs-example{
+	margin: 20px;
+}
+
+.sidebar{
+	height:100%;
+	width: 200px;
+	left:0px;
+	top:75px;
+	position:fixed;
+
+	
+}
+
+.fixed{
+	background-color: #ccc;
+	width:0px;
+}
+
+#toggle-sidebar-button{
+    position: absolute;
+	left:10px;
+	top:0px;
+	cursor:pointer;
+}
+
+#To-Do-Col{
+	background-color: white;
+	height:400px;
+	padding:0;
+	margin-bottom:20px;
+}
+
+#Course-Col{
+	height: 100%;
+}
+
+#Current-Course{
+	background-color: white;
+	padding-bottom: 20px;
+}
+
+#Course-Completion{
+	height: 27%;
+	background-color: #999999;
+	margin-top: 10px;
+}
+
+#Top-Section{
+	max-width: 95%;
+	max-height:100%;
+	overflow: hidden;
+	background-color:#325C74;
+	padding-top:20px;
+}
+
+.blue{
+	color:#2a4663;
+
+}
+
+#EnrolledCourse{
+	overflow: hidden;
+	padding-bottom:25px;
+	padding-top:70px;
+}
+
+#content-area{
+	padding-right: 1px;
+}
+
+#profile-area{
+	height:auto;
+	padding-top:20px;
+	margin-bottom:50px;
+	}
+ 
+
+
+.main-area-profile{
+	margin-top:70px;
+	
+}
+
+#badges{
+	min-width:100%;
+	height:40%;
+
+	
+}
+
+#courses{
+	margin-top:5px;
+	height:40%;
+}
+
+#settings{
+	height:150px;
+	background-color:transparent;
+}
+
+.badge-image{
+	float: left;
+	margin-left: 3% !important;
+	margin-right: 3% !important;
+	max-width:18.75% !important;
+	
+	
+}
+
+.courses-image{
+	float: left;
+	margin-left: 4% !important;
+	margin-right: 4% !important;
+	max-width:24.3333% !important;
+	padding-bottom: 50px !important;
+}
+
+.carousel-inner > .item {
+	max-width:60%;
+    margin-left: auto;
+    margin-right:auto;
+    
+}
+
+.carousel-inner > .carousel-item > img{
+	padding-bottom: 24pt;
+	display: block;
+	margin: auto;
+}
+
+.card-group img { 
+  display: block;
+  width: 100%;
+  height: auto;
+
+}
+
+.profile-picture{
+	height: 200px;
+	width: 200px;
+	margin: 0 auto;
+	display: block;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.circle-image{
+	border-radius: 25%;
+
+}
+
+#profile-data{
+	width:100%;
+	margin-bottom: 20px;
+}
+
+#profile-pic-div{
+	width:100%;
+}
+
+#profile-buttons{
+	width:100%;
+	display: block;
+	margin: 0 auto;
+	float: bottom;
+	bottom: 0;
+	margin-bottom: 20px;
+}
+
+.profile-button{
+	display:block;
+	height: 50px;
+	width:80%;
+	margin-right:auto;
+	margin-left:auto;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	background-color:white;
+	color: #336699;
+	border:2px;
+	border-color: #336699;
+	border-style:solid;
+	border-radius:8px;
+}
+
+.table-row {
+    display: table;
+    table-layout: fixed;
+}
+
+#carousel-title{
+	background-color: transparent;
+	margin: 20px;
+	-webkit-backface-visibility: hidden;
+}
+
+#carousel-title > h2{
+	color: #AA0114;
+	-webkit-backface-visibility: hidden !important;
+}
+
+#badges-carousel{
+	background-color:transparent;
+	padding-top:0;
+}
+
+#courses-carousel{
+	background-color:transparent;
+	padding-top:0;
+	
+}
+
+#course-img{
+	width: 100%;
+}
+
+.main{
+  display:table;
+  height:100%;
+  display:flex;
+}
+
+.center{
+  display:table-cell;
+  vertical-align:middle;
+  overflow-y:auto;
+  width:100%;
+  margin:10px;
+}
+
+#rec-courses{
+	padding-top:0;
+	background-color:#325C74;
+}
+
+.course-button{
+	margin: 1%;
+	margin-left:5%;
+	background-color:#325C74;
+	padding:10px;
+}
+
+#course-buttons{
+	margin-top:5%;
+}
+
+#book{
+	color:white;
+}
+
+#star{
+	color:white;
+}
+
+#sign-out{
+	color:white;
+}
+
+@media screen and (max-width: 1550px) {
+    .icon{
+    	width:100%;
+    }
+}
+
+#badge-control{
+	margin-top: 40px;
+}
+
+
+
